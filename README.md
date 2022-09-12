@@ -9,10 +9,6 @@ My name is Nate. Here is a bit about me. I am:
 - a graphic designer, both freelancing and as part of a local design firm
 - an entrepreneur, starting a [hosting company](https://demonbolthost.com) in early 2020.
 
-### My blog :book:
-
-I occasionally post science & technology-related blogs [on my website](https://nathaniel.pro). If this is something you're interested in, check it out!
-
 ### Stats & Fun Stuff
 
 <details>	
@@ -25,3 +21,10 @@ I occasionally post science & technology-related blogs [on my website](https://n
   <summary><b>☄️ Github Streaks</b></summary>
   <img height="150em" src="https://streak-stats.demolab.com?user=ACA30&theme=dark&hide_border=true" />
 </details>
+
+### My blog :book:
+
+I occasionally post science & technology-related blogs [on my website](https://nathaniel.pro). If this is something you're interested in, check it out!
+
+<!-- NATEBLOG:START -->
+<!-- NATEBLOG:END -->
