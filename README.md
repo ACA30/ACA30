@@ -26,8 +26,4 @@ My name is Nate. Here is a bit about me. I am:
 
 I occasionally post science & technology-related blogs [on my website](https://nathaniel.pro). If this is something you're interested in, check it out!
 
-<!-- NATEBLOG:START -->
-- [What is 5G, and how does it work?](https://nathaniel.pro/all-about-5g/)
-- [Exploring Quantum Computing](https://nathaniel.pro/exploring-quantum-computing/)
-- [How the Biggest Distributed Supercomputer Broke the Exaflop Barrier… and What That Means for Us](https://nathaniel.pro/fah-breaks-exaflop-barrier/)
-<!-- NATEBLOG:END -->
+<!-- NATEBLOG:START -->» [What is 5G, and how does it work?](https://nathaniel.pro/all-about-5g/) - Mon Feb 01 2021 2:31 PM» [Exploring Quantum Computing](https://nathaniel.pro/exploring-quantum-computing/) - Tue May 19 2020 11:26 PM» [How the Biggest Distributed Supercomputer Broke the Exaflop Barrier… and What That Means for Us](https://nathaniel.pro/fah-breaks-exaflop-barrier/) - Thu Apr 09 2020 5:26 AM<!-- NATEBLOG:END -->
