@@ -18,3 +18,4 @@ jobs:
           commit_message: "Update blog posts"
           user_agent: "gh-blog-updater"
           comment_tag_name: "NATEBLOG"
+          template: "» [$title]($url) - $date"
