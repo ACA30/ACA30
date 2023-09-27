@@ -6,8 +6,7 @@ My name is Nate. Here is a bit about me. I am:
 
 - a CS student at the University of Guelph
 - an IT professional, working with local businesses to manage their IT infrastructure
-- a graphic designer, both freelancing and as part of a local design firm
-- an entrepreneur, starting a [hosting company](https://demonbolthost.com) in early 2020.
+- a freelance graphic designer
 
 ### Stats & Fun Stuff
 
